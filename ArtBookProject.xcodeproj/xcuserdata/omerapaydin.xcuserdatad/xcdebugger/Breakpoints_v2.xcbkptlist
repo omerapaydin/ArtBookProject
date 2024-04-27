@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B77A62D7-4405-4EF1-B752-ABF25A493EBC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B685191D-3EB4-4053-86D5-2FF44B95CBBF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtBookProject/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "DetailsVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B685191D-3EB4-4053-86D5-2FF44B95CBBF - cbc3854345bed512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailsVC.imageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omerapaydin/Desktop/Swift/ArtBookProject/ArtBookProject/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "B685191D-3EB4-4053-86D5-2FF44B95CBBF - c8e69049cb1f0106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailsVC.imageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omerapaydin/Desktop/Swift/ArtBookProject/ArtBookProject/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "B685191D-3EB4-4053-86D5-2FF44B95CBBF - 59559e3a6b525017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailsVC.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omerapaydin/Desktop/Swift/ArtBookProject/ArtBookProject/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "B685191D-3EB4-4053-86D5-2FF44B95CBBF - b4d2ab75efef74c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailsVC.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omerapaydin/Desktop/Swift/ArtBookProject/ArtBookProject/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "B685191D-3EB4-4053-86D5-2FF44B95CBBF - d5ca250569bb33fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailsVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ArtBookProject.DetailsVC"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omerapaydin/Desktop/Swift/ArtBookProject/ArtBookProject/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "B685191D-3EB4-4053-86D5-2FF44B95CBBF - ea94d29f90787432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailsVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ArtBookProject.DetailsVC&gt;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omerapaydin/Desktop/Swift/ArtBookProject/ArtBookProject/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
